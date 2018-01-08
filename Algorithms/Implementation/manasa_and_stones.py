@@ -1,4 +1,4 @@
-for _ in range(int(input())):
+for j in range(int(input())):
 	n, a, b = int(input()), int(input()), int(input())
 	if a==b:
 		print(a*(n-1))
